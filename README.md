@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -11,6 +12,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
