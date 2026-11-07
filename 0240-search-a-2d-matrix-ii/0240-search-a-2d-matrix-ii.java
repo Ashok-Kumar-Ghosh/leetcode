@@ -8,6 +8,7 @@ class Solution {
                 for(int j=0;j<n;j++){
                     if(matrix[i][j]==target){
                         res=true;
+                        break;
                     }
                 }
             }
