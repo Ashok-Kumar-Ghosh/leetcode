@@ -14,6 +14,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
