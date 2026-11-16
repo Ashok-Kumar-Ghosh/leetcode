@@ -21,6 +21,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
