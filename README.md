@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1480-running-sum-of-1d-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -83,4 +84,8 @@
 | ------- |
 | [0344-reverse-string](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0709-to-lower-case) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
