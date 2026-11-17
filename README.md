@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -33,6 +34,7 @@
 | [0268-missing-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Hash Table
@@ -40,6 +42,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,4 +94,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
