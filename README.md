@@ -17,6 +17,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1773-count-items-matching-a-rule](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1929-concatenation-of-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
@@ -107,4 +108,5 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
