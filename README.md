@@ -18,6 +18,7 @@
 | [1470-shuffle-the-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1512-number-of-good-pairs](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1773-count-items-matching-a-rule](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1929-concatenation-of-array) |
@@ -33,6 +34,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1512-number-of-good-pairs) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
@@ -51,6 +53,7 @@
 | [0169-majority-element](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,6 +84,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
