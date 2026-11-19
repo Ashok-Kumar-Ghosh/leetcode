@@ -15,6 +15,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1920-build-array-from-permutation](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1920-build-array-from-permutation) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
