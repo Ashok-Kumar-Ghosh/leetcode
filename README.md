@@ -10,6 +10,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0832-flipping-an-image](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -65,11 +66,13 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
@@ -81,6 +84,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0867-transpose-matrix) |
 ## Counting
 |  |
@@ -117,6 +121,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1929-concatenation-of-array) |
