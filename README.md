@@ -10,6 +10,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0867-transpose-matrix](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0867-transpose-matrix) |
 ## Counting
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
