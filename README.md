@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -46,6 +47,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -76,6 +78,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0832-flipping-an-image) |
@@ -134,4 +137,12 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1929-concatenation-of-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
