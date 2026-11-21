@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0169-majority-element) |
@@ -69,6 +70,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0268-missing-number) |
