@@ -39,6 +39,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0367-valid-perfect-square) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -69,6 +70,7 @@
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
