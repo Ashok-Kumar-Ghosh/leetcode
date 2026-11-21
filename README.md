@@ -36,6 +36,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0268-missing-number) |
@@ -68,6 +69,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0367-valid-perfect-square) |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0075-sort-colors) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
