@@ -131,6 +131,7 @@
 | [0709-to-lower-case](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0709-to-lower-case) |
 | [1773-count-items-matching-a-rule](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Prefix Sum
 |  |
 | ------- |
