@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -76,6 +77,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
