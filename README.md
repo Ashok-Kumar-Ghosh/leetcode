@@ -47,6 +47,7 @@
 | [0268-missing-number](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0367-valid-perfect-square) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0829-consecutive-numbers-sum](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -170,4 +171,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0069-sqrtx) |
+## Enumeration
+|  |
+| ------- |
+| [0829-consecutive-numbers-sum](https://github.com/Ashok-Kumar-Ghosh/leetcode/tree/master/0829-consecutive-numbers-sum) |
 <!---LeetCode Topics End-->
